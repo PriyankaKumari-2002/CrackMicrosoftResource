@@ -131,7 +131,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
 | [Word ladder]( https://leetcode.com/problems/word-ladder-ii/) |  |  |
 | [Meeting Rooms]( https://www.interviewbit.com/problems/meeting-rooms/) |  |  |
-| [Distribute Candies]( https://leetcode.com/problems/distribute-candies/) |  |  |
+| [Distribute Candies]( https://leetcode.com/problems/distribute-candies/) | Done |  |
 
 ---
 ## Contribute
