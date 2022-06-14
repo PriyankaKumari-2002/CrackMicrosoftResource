@@ -56,7 +56,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  |done  |  |
 | [Majority Element]( https://leetcode.com/problems/majority-element/)  |done|  |
-| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  |  |
+| [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  |done|  |
 | [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
 
 ---
