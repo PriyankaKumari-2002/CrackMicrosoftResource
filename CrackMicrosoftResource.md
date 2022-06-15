@@ -90,7 +90,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) |  |  |
-| [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
+| [Largest Number ]( https://leetcode.com/problems/largest-number/) |done  |  |
 | [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) |  |  |
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |done  |  |
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
