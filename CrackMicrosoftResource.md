@@ -77,7 +77,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
 | [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |done  |  |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
-| [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
+| [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |done  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
 | [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) |  |  |
 | [Coin Change]( https://leetcode.com/problems/coin-change-2/)  |  |  |
