@@ -95,7 +95,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |done  |  |
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |done  |  |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
-| [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
+| [Flip]( https://www.interviewbit.com/problems/flip/)  | done |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
